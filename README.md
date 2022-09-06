@@ -18,11 +18,11 @@
 
 ##### *Systems operating used:*
 
-* ![macos](https://img.shields.io/badge/macos-872EC4?style=for-the-badge&logo=apple&logoColor=white)
-* ![linux](https://img.shields.io/badge/linux-F3CD00?style=for-the-badge&logo=linux&logoColor=black)
-* ![windows](https://img.shields.io/badge/windows-00A1F1?style=for-the-badge&logo=windows&logoColor=white)
+![macos](https://img.shields.io/badge/macos-999999?style=for-the-badge&logo=apple&logoColor=white)    
+![linux](https://img.shields.io/badge/linux-F3CD00?style=for-the-badge&logo=linux&logoColor=black)  
+![windows](https://img.shields.io/badge/windows-00A1F1?style=for-the-badge&logo=windows&logoColor=white)
 
 ##### *Contact:*
 
-* [![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurbocse)
-* [![website](https://img.shields.io/badge/website-EAB308?style=for-the-badge&logo=website&logoColor=white)](https://laurbocse.github.io)
+[![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurbocse)  
+[![website](https://img.shields.io/badge/website-EAB308?style=for-the-badge&logo=website&logoColor=white)](https://laurbocse.github.io)
